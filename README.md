@@ -1,4 +1,4 @@
-## Hi there,
+## Hi there, I am Maruti
 - 👋 Hi, I’m **Maruti,S**
 - 👀 I’m interested in **Web development and DSA**
 - 🌱 I’m currently learning **FullStack,DSA**
