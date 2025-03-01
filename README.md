@@ -1,5 +1,5 @@
 ## Hi there,
-- 👋 Hi, I’m @Maruti
+- 👋 Hi, I’m **Maruti,S**
 - 👀 I’m interested in **Web development and DSA**
 - 🌱 I’m currently learning **FullStack,DSA**
 - 💞️ I’m looking to collaborate on **website designing**
@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maruti757&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Maruti757&theme=swift&hide_border=false)<br/>
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
